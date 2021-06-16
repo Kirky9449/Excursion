@@ -1,0 +1,48 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainTitle {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.title {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+p {
+  font-size: 21px;
+  color: grey;
+  text-align: center;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+img {
+    align-content: center;
+}
+
+.myLinks {
+    text-align: center;
+}
+
+ .theFooter {
+    text-align: right;
+    color:grey;
+}
